@@ -1,8 +1,8 @@
 # Online-Shopping-Application
 A Trendyol like e-commerce website written with only Java
 
-The project fetches the product and user data from the products.csv and users.csv
-There are 3 type of users 
+The project fetches the product and user data from the products.csv and users.csv.
+There are 3 type of users: 
 1- Houseware(supplier)
 2- Customer
 3- Admin
